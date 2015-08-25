@@ -14,3 +14,8 @@ The code was developed in standard C and it can be compiled with no problems usi
 I am releasing the code with the Code:Blocks project I used to develop it
 
 That means all you have to do is download the project, compile it and run.
+
+All the source code provided are under the MIT License, so as long as you follow it feel free to fork, change and use it for whatever purpose you would like to.
+
+Peace Out,
+Chagall Khan.
