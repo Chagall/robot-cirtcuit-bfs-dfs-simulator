@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1436754606 source:c:\users\pnc\desktop\simuladorbuscaemlargura\auxiliares.c
+	<stdio.h>
+
+1436759132 source:c:\users\pnc\desktop\simuladorbuscaemlargura\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	"PilhaSequencialEstatica.h"
+
+1436756715 c:\users\pnc\desktop\simuladorbuscaemlargura\grafo.h
+
+1382711325 c:\users\pnc\desktop\simuladorbuscaemlargura\pilhasequencialestatica.h
+	<stdio.h>
+	<stdlib.h>
+
+1436759036 source:c:\users\pnc\desktop\simuladorbuscaemlargura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1382711334 source:c:\users\pnc\desktop\simuladorbuscaemlargura\pilhasequencialestatica.c
+	<stdio.h>
+	<stdlib.h>
+	"PilhaSequencialEstatica.h"
+
+1382711334 source:c:\users\pnc\desktop\simulador busca em largura\pilhasequencialestatica.c
+	<stdio.h>
+	<stdlib.h>
+	"PilhaSequencialEstatica.h"
+
+1382711325 c:\users\pnc\desktop\simulador busca em largura\pilhasequencialestatica.h
+	<stdio.h>
+	<stdlib.h>
+
+1436761630 source:c:\users\pnc\desktop\simulador busca em largura\auxiliares.c
+	<stdio.h>
+
+1436761598 source:c:\users\pnc\desktop\simulador busca em largura\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	"PilhaSequencialEstatica.h"
+
+1436761221 c:\users\pnc\desktop\simulador busca em largura\grafo.h
+
+1436761104 source:c:\users\pnc\desktop\simulador busca em largura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+

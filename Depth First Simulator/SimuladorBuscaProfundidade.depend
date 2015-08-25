@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1436757840 source:c:\users\pnc\desktop\simulador busca profundidade\simuladorbuscaprofundidade\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1436756715 c:\users\pnc\desktop\simulador busca profundidade\simuladorbuscaprofundidade\grafo.h
+
+1436756723 source:c:\users\pnc\desktop\simulador busca profundidade\simuladorbuscaprofundidade\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1436754606 source:c:\users\pnc\desktop\simulador busca profundidade\simuladorbuscaprofundidade\auxiliares.c
+	<stdio.h>
+
+1436760942 source:c:\users\pnc\desktop\simulador busca em profundidade\auxiliares.c
+	<stdio.h>
+
+1436760896 source:c:\users\pnc\desktop\simulador busca em profundidade\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
+1436760525 c:\users\pnc\desktop\simulador busca em profundidade\grafo.h
+
+1436760506 source:c:\users\pnc\desktop\simulador busca em profundidade\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+
